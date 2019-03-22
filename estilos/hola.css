@@ -1,0 +1,14 @@
+p{
+	color: red;
+	font-size: 20px;
+}
+
+div{
+	background-color: blue;
+	width: 100px;
+	height: 100px;
+}
+
+.div-black{
+	background-color: black;
+}

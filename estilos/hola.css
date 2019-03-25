@@ -2,7 +2,7 @@ p{
 	border: 1px solid #2e518b; 
 padding: 60px; 
 font-size: 60px;
-background-color: #2e518b; 
+background-color: red; 
 color: #ffffff; 
 text-decoration: none; 
 text-transform: uppercase; 
@@ -10,10 +10,11 @@ font-family: 'Helvetica', sans-serif;
 border-radius: 20px;
 }
 p1{
-	color:#48DEBA;
+	color:red;
 	font-family: 'Comic Sans', sans-serif;
 	font-size: 25px;
 	}
+
 
 div{
 
@@ -29,18 +30,41 @@ div{
 	float: left;	
 }
 .sec1{
-	border: 1px solid #E3D5BD; 
+	border: 1px solid #EC6161; 
 padding: 10px;
 /*width: 400px;*/
 height: 200px;
 font-size: 12px;
-background-color: #E3D5BD; 
+background-color: #EC6161; 
 color: #black; 
 text-decoration: none; 
 font-family: 'Helvetica', sans-serif; /*tipografía texto*/
 border-radius: 10px;
 }
+}
 
+
+.principal1{
+	width: 100%;
+}
+}
+
+.secundario1{
+	width: 30%;
+	float: left;	
+}
+.sec2{
+	border: 1px solid #EC6161; 
+padding: 10px;
+/*width: 400px;*/
+height: 200px;
+font-size: 12px;
+background-color: #EC6161; 
+color: #black; 
+text-decoration: none; 
+font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+border-radius: 10px;
+}
 .div-black{
 	background-color: black;
 }
